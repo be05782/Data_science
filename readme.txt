@@ -6,3 +6,5 @@ and
 git commit -m "second commit on readme.txt" 
 git push (to push the file on github)
 
+I made a third modif at 11:32 and just repeat the commit and push commands
+
